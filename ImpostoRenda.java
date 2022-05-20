@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class GiovanniSchardong {
+public class ImpostoRenda {
     public static void main(String[] args) {
 
         // Variaveis
